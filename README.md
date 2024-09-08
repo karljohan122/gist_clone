@@ -1,5 +1,7 @@
 # GistClone
 
+This is a project for learning purposes. Video tutorial by Elixir Mentor: https://www.youtube.com/watch?v=dnp0rQLNQZY
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
